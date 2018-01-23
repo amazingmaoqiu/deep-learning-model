@@ -1,0 +1,9 @@
+import os
+
+LEARNING_RATE = 1e-3
+NUM_STEPS     = 2000
+BATCH_SIZE    = 128
+NUM_INPUT     = 784
+NUM_CLASSES   = 10
+DISPLAY_STEP  = 1
+DROPOUT       = 0.25
